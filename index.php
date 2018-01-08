@@ -9,8 +9,6 @@
  	include 'includes/details-modal.php'; 
 
 
-
-
  	$sql = "SELECT * FROM products WHRE featured = 1";
  ?>
 
